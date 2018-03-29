@@ -1,15 +1,11 @@
-# Microsoft Certification 70-480
+# Certificação Microsoft 70-480
 
-## Objectives
+## Objetivos
 
-### 1 - Implement and manipulate document structures and objects
+### 1 - Implemente e manipule estruturas e objetos de documentos
 
-[Objective 1.1: Create the document structure](1.1-create-the-document-structure.md)
-* Using HTML5 semantic markup
-    - [Elementos](####Elementos)
-    - [Atributos de tags](####Atributos-de-tags)
-    - [Marcação semântica do HTML5](####Marcação-semântica-do-HTML5)
-
-* Creating a layout container in HTML 15
-* Optimizing for search engines 16
-* Optimizing for screen readers
+[Objetivo 1.1: Criar a Estrutura do documento](1.1-create-the-document-structure.md)
+* Usando a marcação semântica do HTML5
+* Criando um contêiner de layout em HTML5
+* Otimizando para mecanismos de busca
+* Otimizando para leitores de tela
